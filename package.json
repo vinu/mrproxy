@@ -1,0 +1,16 @@
+{
+  "name": "mrproxy",
+  "version": "1.0.0",
+  "description": "I am the proxy man",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinu@xminds.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "http-proxy": "^1.17.0"
+  }
+}
